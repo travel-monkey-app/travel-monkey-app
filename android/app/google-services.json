@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911383821282",
+    "project_id": "travelmonkey-5f0e0",
+    "storage_bucket": "travelmonkey-5f0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911383821282:android:213f97c4b086d0584fd7bb",
+        "android_client_info": {
+          "package_name": "com.example.travel_monkey_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911383821282-ctr701l2m3bje5582fto4q8obaeg5irv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQ2XRcLj2DSl8byMOL2szEEnk0c_OxDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911383821282-ctr701l2m3bje5582fto4q8obaeg5irv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

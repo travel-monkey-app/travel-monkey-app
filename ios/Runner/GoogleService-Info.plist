@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>374866826176-mnm9hsa0edre31qelhrq6r9mcjpl8dfr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.374866826176-mnm9hsa0edre31qelhrq6r9mcjpl8dfr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>374866826176-7d3u45sdn3h7f31sbesgr7d4jjc420af.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgmWKUay_dBVv0WfLV8UPyDTPpWvPLn2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374866826176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.travelMonkeyApp</string>
+	<key>PROJECT_ID</key>
+	<string>travel-monkey-test-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-monkey-test-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374866826176:ios:33b209b5526ffcb0faee25</string>
+</dict>
+</plist>
